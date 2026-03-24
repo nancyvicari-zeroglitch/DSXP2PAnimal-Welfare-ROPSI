@@ -123,6 +123,15 @@ section {
     justify-content: center;
     align-items: start;
 }
+#hero h1 {
+    font-size: 46px;
+    color: #237A8E;
+}
+
+#hero p,
+#hero strong {
+    color: #237A8E;
+}
 
 #hero h1 {
     font-size: 46px;
