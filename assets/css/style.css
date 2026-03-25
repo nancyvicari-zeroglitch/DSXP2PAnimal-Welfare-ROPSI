@@ -187,6 +187,11 @@ section {
     margin: 30px 0;
 }
 
+#recurring h1,
+#recurring p {
+    color: #fff;
+}
+
 /* Sponsor a child */
 .list {
     display: flex;
