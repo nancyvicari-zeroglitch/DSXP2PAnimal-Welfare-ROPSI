@@ -4,6 +4,7 @@
     --uk-yellow: #ffd819;
     --uk-dark-yellow: #e6c317;
     --ramadan-gold: #D3AF37;
+    --aw-green: #237a8e;
 }
 
 * {
@@ -74,8 +75,8 @@ section {
 }
 
 .button {
-    background-color: var(--uk-yellow);
-    color: #231f20;
+    background-color: var(--aw-green);
+    color: #FFFFFF;
     min-width: 200px;
     text-align: center;
     text-decoration: none;
