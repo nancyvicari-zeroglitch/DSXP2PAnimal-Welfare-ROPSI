@@ -304,6 +304,9 @@ footer img {
 }
 
 @media(max-width:767px) {
+    #hero {
+        background-position: left center
+    }
     section {
         padding: 2rem 1rem;
     }
