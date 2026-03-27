@@ -286,7 +286,7 @@ section {
 }
 
 footer {
-    padding: 2rem;    
+    padding: 0.35rem;    
     display: flex;
     flex-direction: column;
     justify-content: center;
